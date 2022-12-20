@@ -1,12 +1,12 @@
-#Basic Command-Line Auction System
+# Distrubuted Auction System via Command Line with Active Replication
 
 -------------------------------------------------------------
 
-##Overview
+## Overview
 
-    The following files contain parts of a basic auction system that operate via terminal.
+    The following files contain parts of a distrubuted auction system via command line with active replication
 
-##Guidelines to run the auction system
+## Guidelines to run the auction system
 
     1- Set the _server_ folder and the _Client_ folder in seperate paths.
     
