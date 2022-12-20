@@ -4,7 +4,7 @@
 
 ## Overview
 
-    The following files contain parts of a distrubuted auction system via command line with active replication
+The following files contain parts of a distrubuted auction system via command line with active replication
 
 ## Guidelines to run the auction system
 
